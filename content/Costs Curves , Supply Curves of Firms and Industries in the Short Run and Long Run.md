@@ -6,8 +6,10 @@ Cost curves are the value function of the cost minimisation problem with respect
 now, total costs consists of two components : fixed costs and variable costs.
 i.e.
 $$TC = FC + VC$$
+
 we are always interested in per unit analysis and marginal analysis in microeconomics as those affect the decisions in the larger scheme of things. That is we are interested in average costs (variable and fixed) and marginal costs here.
 $$ ATC = AFC + AVC \quad \text{    and   } \quad MC =  \frac{d TC}{dy}$$ 
+
 Note that :  MC = MVC 
 ### SHORT RUN :
 
@@ -34,10 +36,12 @@ marginal product at a point can be identified using the slope at that, while the
 
 Now , in general setting with only labour as factor of production , 
 $$VC = w.L \quad \implies AVC = \frac{w}{APL}$$ 
+
 where APL = average product of labour, denoted by AP in the graph.
 so we will get a U shaped variable average cost curve. 
 In the same spirit it can be proved, 
 $$VC = w.L \quad \implies MC = MVC =  \frac{w}{MPL}$$
  
+
 where MPL = average product of labour, denoted by AP in the graph.
 so the MC curve will also be a U shaped curve with minimum below the AVC curve.
