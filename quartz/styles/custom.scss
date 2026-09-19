@@ -1,3 +1,8 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Hide date and reading time only on the home/index page
+body[data-slug="index"] .content-meta {
+  display: none;
+}
